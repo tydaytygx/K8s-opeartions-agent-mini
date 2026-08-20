@@ -1,2 +1,4 @@
 torch
+requests
+beautifulsoup4
 transformers
